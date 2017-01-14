@@ -1,9 +1,8 @@
-Ali Arda Eker / Dogukan Celiker
-CS 342 Design Patterns 
-Programming Assignment 4
+Ali Arda Eker
+Design Patterns 
 12/09/2016
-	Program works as intended and perform all the tasks assigned.
-Builder pattern is used to create queen ants which spawn ant hill and factory
+
+	Builder pattern is used to create queen ants which spawn ant hill and factory
 pattern is used to create warrior, builder and forager ants. Meadow class
 is singleton so there can be only one meadow.
 	Builder ants create foregar rooms if number of foragers which belong to a 
